@@ -1,0 +1,24 @@
+Data visualisation references.
+
+sea-level-3ds
+WEBGL : https://p5js.org/reference/#/p5/WEBGL
+        https://editor.p5js.org/jwdunn1/sketches/Awjm6VpHo
+        https://www.youtube.com/watch?v=nqiKWXUX-o8&list=PLRqwX-V7Uu6bPhi8sS1hHJ77n3zRO9FR_
+        https://github.com/processing/p5.js/issues/3539
+
+EasyCam: https://editor.p5js.org/jwdunn1/sketches/Awjm6VpHo
+
+Dropdown: https://p5js.org/reference/#/p5/createSelect
+          https://p5js.org/reference/#/p5.Element/style
+
+sea level
+sea-level: https://stackoverflow.com/questions/849211/shortest-distance-between-a-point-and-a-line-segment
+adaptated from: https://www.youtube.com/watch?v=u-RiEAQsXlw&t=1189s
+
+
+code that were used initially but could not work
+Locating of Z coordinates: 
+https://github.com/toji/gl-matrix
+https://olegvaraksin.medium.com/convert-world-to-screen-coordinates-and-vice-versa-in-webgl-c1d3f2868086
+https://stackoverflow.com/questions/42309715/how-to-correctly-pass-mouse-coordinates-to-webgl
+https://stackoverflow.com/questions/56716154/how-to-properly-import-from-gl-matrix-js
